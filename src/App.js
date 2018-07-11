@@ -13,7 +13,6 @@ class App extends Component {
     return (
       <div>
         <h2>Minute Timer</h2>
-        {/* <button>Launch</button> */}
         <Timer/>
       </div>
     );
