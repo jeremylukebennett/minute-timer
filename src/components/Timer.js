@@ -17,11 +17,6 @@ class Timer extends React.Component {
         })
     }
 
-    getTime = () => {
-
-
-    }
-
     
     render(){
         // this is forcing a setState, which then causes the page to rerender every second. That's how the time is getting updated.
